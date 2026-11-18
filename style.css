@@ -1,0 +1,46 @@
+body {
+    font-family: system-ui, sans-serif;
+    background-color: #fff;
+    color: #222;
+    margin: 0;
+    text-align: center;
+    line-height: 1.6;
+}
+h1{
+    text-align: start;
+}
+header {
+    background-color: #fff;
+
+    color: #222;
+    padding: 32px 20px;
+}
+
+section {
+    background-color: #fff;
+    margin: 24px auto;
+    padding: 20px;
+    width: min(70%, 720px);
+}
+
+h2 {
+    color: #222;
+}
+
+ul {
+    list-style: none;
+    padding: 0;
+}
+
+li {
+    padding: 6px;
+}
+
+button {
+    background-color: #222;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 3px;
+    cursor: pointer;
+}
